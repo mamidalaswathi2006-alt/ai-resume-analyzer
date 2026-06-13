@@ -1,6 +1,10 @@
 # 📄 AI Resume Analyzer
 
 An AI-powered Resume Analyzer built using Streamlit and Google Gemini AI. Upload a PDF resume and receive ATS scores, skill analysis, improvement suggestions, career guidance, and interview questions.
+## 🌐 Live Demo
+
+🔗 [Try the AI Resume Analyzer](https://ai-resume-analyzer-uma9appzcpj6p6aipyssi93.streamlit.app/)
+
 
 ## 🚀 Features
 
@@ -40,7 +44,6 @@ An AI-powered Resume Analyzer built using Streamlit and Google Gemini AI. Upload
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
 ## 📜 License
 
 MIT License
